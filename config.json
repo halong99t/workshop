@@ -1,0 +1,14 @@
+{
+  "dev": {},
+  "arbitrum_test": {},
+  "main": {},
+  "arbitrum_goerli": {
+    "Floppy": "0x1126d588E1C6Ff4f20989B27aA261b374840c37B"
+  },
+  "arbitrum": {
+    "Floppy": "0x0fb3a3a67b0DbD9C522846b4DdF65E84D62552E1"
+  },
+  "arbitrumOne": {
+    "Floppy": "0x904222eC5821536000D548eBFc1EAD96d729de50"
+  }
+}
